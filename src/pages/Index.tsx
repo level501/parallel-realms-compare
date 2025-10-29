@@ -1,14 +1,25 @@
-// Update this page (the content is just a fallback if you fail to update the page)
+import { useState } from "react";
+import { WorldType } from "@/types/world";
+import { hyruleData } from "@/data/hyruleData";
+import { amestrisData } from "@/data/amestrisData";
+import WorldSelector from "@/components/WorldSelector";
+import WorldDashboard from "@/components/WorldDashboard";
 
-const Index = () => {
-  return (
-    <div className="flex min-h-screen items-center justify-center bg-background">
-      <div className="text-center">
-        <h1 className="mb-4 text-4xl font-bold">Welcome to Your Blank App</h1>
-        <p className="text-xl text-muted-foreground">Start building your amazing project here!</p>
-      </div>
-    </div>
-  );
-};
+export default function Index() {
+  const [selectedWorld, setSelectedWorld] = useState<WorldType | null>(null);
 
-export default Index;
+  const handleSelectWorld = (world: WorldType) => {
+    setSelectedWorld(world);
+  };
+
+  const handleBack = () => {
+    setSelectedWorld(null);
+  };
+
+  if (selectedWorld) {
+    const worldData = selectedWorld === "hyrule" ? hyruleData : amestrisData;
+    return <WorldDashboard world={worldData} onBack={handleBack} />;
+  }
+
+  return <WorldSelector onSelectWorld={handleSelectWorld} />;
+}
