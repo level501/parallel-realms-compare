@@ -1,16 +1,52 @@
-# Welcome to your Lovable project
+# Data Analytics & Cyber Visualization Portfolio
 
-## Project info
+Welcome to the professional portfolio of Levi Woodson, a data scientist and cybersecurity engineer specializing in **data visualization, automation, and analytic insight delivery**.
 
-**URL**: https://lovable.dev/projects/6c7f841d-3dd7-420b-a714-bb96ef56337a
+This repository demonstrates the ability to leveerage the skillsets acquired over the years along with AI tools to transform complex datasets into actionable intelligence for leadership and operational teams using my personal favorite universes.
+
+## Project Demo
+
+**URL**: [https://lovable.dev/projects/6c7f841d-3dd7-420b-a714-bb96ef56337a](https://parallel-realms-compare.lovable.app)
+
+---
+
+## 🚀 Experience Overview
+
+### **1. Multi-Org Cyber Compliance Dashboard (COLSA Corporation)**
+Unified data from multiple cybersecurity divisions into a PowerBI-style dashboard.  
+**Tools:** Python, pandas, PowerBI, matplotlib  
+**Outcome:** Automated task tracking and compliance visualization across organizations.
+
+### **2. NASA Security Log Visualization (Metters Inc.)**
+Designed a real-time monitoring visualization system for NASA’s Marshall Space Flight Center.  
+**Tools:** pandas, matplotlib, anomaly detection techniques  
+**Outcome:** Reduced log fatigue and enhanced decision-making accuracy.
+
+### **3. Database Performance Optimization (Oakwood University)**
+Analyzed SQL execution performance to identify bottlenecks.  
+**Tools:** SQL, Python, pandas, PowerBI  
+**Outcome:** Improved system response times and operational efficiency.
+
+---
+
+## 🧰 Core Skills
+- **Languages:** Python, SQL, Bash, PowerShell  
+- **Visualization Tools:** PowerBI, Tableau, Splunk  
+- **Domains:** Cybersecurity, Data Analytics, Process & System Automation  
+
+---
+
+## 📫 Connect
+- **GitHub:** [github.com/level501](https://github.com/level501)
+- **Email:** [yourname@email.com](levi.woodson@gmail.com)
 
 ## How can I edit this code?
 
-There are several ways of editing your application.
+There are several ways of editing the application.
 
-**Use Lovable**
+**Use Lovable (AI)**
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/6c7f841d-3dd7-420b-a714-bb96ef56337a) and start prompting.
+Simply visit your own [Lovable Project](https://lovable.dev) and start prompting.
 
 Changes made via Lovable will be committed automatically to this repo.
 
@@ -59,15 +95,3 @@ This project is built with:
 - React
 - shadcn-ui
 - Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/6c7f841d-3dd7-420b-a714-bb96ef56337a) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
