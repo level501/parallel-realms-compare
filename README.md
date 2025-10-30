@@ -1,12 +1,12 @@
 # Data Analytics & Cyber Visualization Portfolio
 
-Welcome to the professional portfolio of Levi Woodson, a data scientist and cybersecurity engineer specializing in **data visualization, automation, and analytic insight delivery**.
+Welcome to the professional portfolio of Levi Woodson, a data scientist and cybersecurity engineer specializing in data visualization, automation, and analytic insight delivery.
 
 This repository demonstrates the ability to leveerage the skillsets acquired over the years along with AI tools to transform complex datasets into actionable intelligence for leadership and operational teams using my personal favorite universes.
 
 ## Project Demo
 
-**URL**: [https://lovable.dev/projects/6c7f841d-3dd7-420b-a714-bb96ef56337a](https://parallel-realms-compare.lovable.app)
+**URL**: [Parallel Realms](https://parallel-realms-compare.lovable.app)
 
 ---
 
