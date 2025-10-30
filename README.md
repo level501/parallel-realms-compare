@@ -44,11 +44,6 @@ Analyzed SQL execution performance to identify bottlenecks.
 
 There are several ways of editing the application.
 
-**Use Lovable (AI)**
-
-Simply visit your own [Lovable Project](https://lovable.dev) and start prompting.
-
-Changes made via Lovable will be committed automatically to this repo.
 
 **Use your preferred IDE**
 
